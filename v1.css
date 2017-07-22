@@ -23,7 +23,8 @@ body {
 }
 
 .navbar-default {
-	background-color: #2e75a9;
+	background-color: transparent;
+	border-color: transparent;
 
 }
 
