@@ -3,14 +3,12 @@
 	}*/
 
 body {
-	/*background-image: url(img/saturo.jpg);*/
+	background-image: url(img/saturo.jpg);
 	
-	background-image:  -webkit-linear-gradient(top left, rgba(178,34,34,  0.1),  rgba(75, 107, 175, 1)), url(img/saturo.jpg); 
-	background-image:  -moz-linear-gradient(top left, rgba(178,34,34,  0.1),  rgba(75, 107, 175, 1)), url(img/saturo.jpg);
-	background-image:  -ms-linear-gradient(top left, rgba(178,34,34,  0.1),  rgba(75, 107, 175, 1)), url(img/saturo.jpg)
-	background-image:  -o-linear-gradient(top left, rgba(178,34,34,  0.1),  rgba(75, 107, 175, 1)), url(img/saturo.jpg);
-	background-image:  linear-gradient(top left, rgba(178,34,34,  0.1),  rgba(75, 107, 175, 1)), url(img/saturo.jpg); 	
-	background-color: #e9ebee;
+	max-width: 1920px;  
+  background-image: -moz-linear-gradient(270deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 95% );
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 95% );
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 95% );
 }
 
 
