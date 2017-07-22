@@ -1,0 +1,19 @@
+#Home {
+	background-color: red;
+	min-height: 1000px;
+}
+
+#Projects {
+	background-color: yellow;
+	min-height: 1000px;
+}
+
+#About {
+	background-color: brown;
+	min-height: 1000px;
+}
+
+#Contact {
+	background-color: green;
+	min-height: 1000px;
+}
