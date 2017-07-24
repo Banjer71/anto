@@ -14,12 +14,12 @@ body {
 h4 {
 	font-family: 'Lobster', cursive;
 }
-/*.logo {
+.logo {
 	margin-top: -8px;
 	font-size: 30px;
 	font-family: 'Lobster', cursive;
 	color: white;
-}*/
+}
 
 .navbar-default {
 	background-color: transparent;
