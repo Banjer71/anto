@@ -8,12 +8,15 @@ body {
 				rgba(255, 255, 255, 0), 
 				rgba(255, 255, 255, 1)), 
 			    url("img/saturo.jpg"); 
+	background-size: cover;
 	
 }
 
 h4 {
 	font-family: 'Lobster', cursive;
 }
+
+
 .logo {
 	margin-top: -8px;
 	font-size: 30px;
@@ -80,7 +83,6 @@ h4 {
 
 .footer {
 		background-color: #f8f8f8;
-		height: 100px;
 		border: 1px solid #e7e7e7;
 		margin-top: 25px;
 	}
@@ -96,20 +98,24 @@ h4 {
  .contabout {
  	margin-top: 50px;
 	background-color: white;
-	outline: 1px solid red;
 	width: 70%;
 	font-family: 'Noto Sans', sans-serif;
-
+	font-size: 18px;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 } 
 
 
+.box-foto {
+	background:transparent;
+
+
+}
 .foto {
 	margin-top: 100px;
 }
 
-.ben {
-	height: 250px;
-}
+
 
 .line {
 	width:50px;
@@ -117,6 +123,13 @@ h4 {
 	background-color: #908e8c;
 	border:none;
 }
+
+.info {
+	margin: 10px;
+	padding: 25px 40px;
+	text-align: justify;
+}
+
 
 
 
