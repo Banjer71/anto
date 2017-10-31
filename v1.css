@@ -141,3 +141,12 @@ h4 {
 
 
 
+/*media query start*/
+
+@media screen and (max-width: 480px) {
+	background:linear-gradient(
+				rgba(255, 255, 255, 0), 
+				rgba(255, 255, 255, 1)), 
+			    url("img/saturo_euhpsj_c_scale,w_503.jpg"); 
+	background-size: cover;
+}
